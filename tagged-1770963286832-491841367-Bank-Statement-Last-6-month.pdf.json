@@ -1,0 +1,772 @@
+[
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      815.24005,
+      9.79099,
+      35.805054,
+      6.4750013
+    ],
+    "text": "Page 1 of 1"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      597.76,
+      57.031,
+      122.45398,
+      6.4750023
+    ],
+    "text": " 129,055.17 128,804.00"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      22.52002,
+      59.310997,
+      116.696976,
+      6.4749985
+    ],
+    "text": "NO OF TRANSACTIONS              49 "
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      22.52002,
+      77.311,
+      89.047,
+      6.4749985
+    ],
+    "text": "TRANSACTION SUMMARY"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      781.52,
+      99.791,
+      19.460022,
+      6.4749985
+    ],
+    "text": " 83.08"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      22.52002,
+      108.79099,
+      760.46,
+      6.475006
+    ],
+    "text": "ENDING BALANCE AS OF 19-AUG-20 83.08"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      22.52,
+      176.311,
+      827.94,
+      6.475006
+    ],
+    "text": "31-JUL-20 31-JUL-20 1501 AMCH ACC MAINT: CHRG INCLUSIVE FED/ 3323615309 50.00 83.08"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      22.52,
+      185.311,
+      828.072,
+      6.475006
+    ],
+    "text": "28-JUL-20 28-JUL-20 5420 ACLF INTRA SWITCH ATM CW FEE/ 756714 3317372018 18.75 133.08"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      22.52,
+      194.311,
+      828.072,
+      6.475006
+    ],
+    "text": "28-JUL-20 28-JUL-20 5420 ACW2 ATM CASH WITHDRAWAL-LNK/ 6421 3317372014 3,000.00 151.83"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      22.52,
+      203.311,
+      827.91,
+      6.475006
+    ],
+    "text": "24-JUL-20 24-JUL-20 5420 ACLF INTRA SWITCH ATM CW FEE/ 543038 3311798930 18.75 3,151.83"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      22.52,
+      212.311,
+      827.91,
+      6.475006
+    ],
+    "text": "24-JUL-20 24-JUL-20 5420 ACW2 ATM CASH WITHDRAWAL-LNK/ 357 3311798929 20,000.00 3,170.58"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      22.52,
+      221.311,
+      828.08203,
+      6.475006
+    ],
+    "text": "24-JUL-20 24-JUL-20 1656 SALC SALARY CREDIT/;SALARY 3311690706 23,005.00 23,170.58"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      22.52,
+      230.311,
+      828.072,
+      6.475006
+    ],
+    "text": "02-JUL-20 01-JUL-20 1785 ACW1 ATM CASH WITHDRAWAL-MCB/ 5555 3273259611 8,000.00 165.58"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.76,
+      239.311,
+      828.67,
+      6.475006
+    ],
+    "text": "30-JUN-20 30-JUN-20 1501 AMCH ACC MAINT: CHRG INCLUSIVE FED/ 3273936608 50.00 8,165.58"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.76,
+      248.311,
+      828.67,
+      6.475006
+    ],
+    "text": "30-JUN-20 30-JUN-20 1785 ACW1 ATM CASH WITHDRAWAL-MCB/ 5080 3272090921 20,000.00 8,215.58"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.76,
+      257.311,
+      828.84204,
+      6.475006
+    ],
+    "text": "30-JUN-20 30-JUN-20 1656 SALC SALARY CREDIT/;SALARY FOR M/O JUNE 2020 3271383318 26,001.00 28,215.58"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.76,
+      266.311,
+      828.67,
+      6.475006
+    ],
+    "text": "16-JUN-20 16-JUN-20 1785 ACW1 ATM CASH WITHDRAWAL-MCB/ 9667 3254720661 2,000.00 2,214.58"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.76,
+      275.311,
+      828.67,
+      6.475006
+    ],
+    "text": "15-JUN-20 15-JUN-20 5420 ACLF INTRA SWITCH ATM CW FEE/ 328707 3253492556 18.75 4,214.58"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.76,
+      284.311,
+      828.67,
+      6.475006
+    ],
+    "text": "15-JUN-20 15-JUN-20 5420 ACW2 ATM CASH WITHDRAWAL-LNK/ 3211 3253492554 5,000.00 4,233.33"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.76,
+      293.311,
+      828.67,
+      6.475006
+    ],
+    "text": "12-JUN-20 12-JUN-20 1501 FDTX FEDERAL EXCISE DUTY TAX/ 3249739912 192.00 9,233.33"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.76,
+      302.311,
+      828.67,
+      6.475006
+    ],
+    "text": "12-JUN-20 12-JUN-20 1501 AFGP CARD ANNUAL FEE - GOLD PLUS/RB FEE FILE UPLOAD 3249739911 1,200.00 9,425.33"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.76,
+      311.311,
+      828.84204,
+      6.475006
+    ],
+    "text": "08-JUN-20 08-JUN-20 5420 ACLF INTRA SWITCH ATM CW FEE/ 655324 3245175266 18.75 10,625.33"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.76,
+      320.311,
+      828.84204,
+      6.475006
+    ],
+    "text": "08-JUN-20 08-JUN-20 5420 ACW2 ATM CASH WITHDRAWAL-LNK/ 4800 3245175265 5,000.00 10,644.08"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.0,
+      329.311,
+      829.60205,
+      6.475006
+    ],
+    "text": "31-MAY-20 31-MAY-20 1501 AMCH ACC MAINT: CHRG INCLUSIVE FED/ 3233642630 50.00 15,644.08"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.0,
+      338.311,
+      829.60205,
+      6.475006
+    ],
+    "text": "23-MAY-20 23-MAY-20 5420 ACLF INTRA SWITCH ATM CW FEE/ 357330 3225399383 18.75 15,694.08"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.0,
+      347.311,
+      829.60205,
+      6.475006
+    ],
+    "text": "23-MAY-20 23-MAY-20 5420 ACW2 ATM CASH WITHDRAWAL-LNK/ 5850 3225399382 3,000.00 15,712.83"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.0,
+      356.311,
+      829.60205,
+      6.475006
+    ],
+    "text": "20-MAY-20 20-MAY-20 5420 ACLF INTRA SWITCH ATM CW FEE/ 55343 3221957522 18.75 18,712.83"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.0,
+      365.311,
+      829.60205,
+      6.475006
+    ],
+    "text": "20-MAY-20 20-MAY-20 5420 ACW2 ATM CASH WITHDRAWAL-LNK/ 1466 3221957521 5,000.00 18,731.58"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.0,
+      374.311,
+      829.60205,
+      6.475006
+    ],
+    "text": "20-MAY-20 20-MAY-20 5420 1BEF INTRA SWITCH ATM BAL. ENQ. FEE/ 1101 3221956644 2.50 23,731.58"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.0,
+      383.311,
+      829.60205,
+      6.475006
+    ],
+    "text": "20-MAY-20 20-MAY-20 1656 SALC SALARY CREDIT/;SALARY 3221323491 22,079.00 23,734.08"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.0,
+      392.311,
+      829.43,
+      6.475006
+    ],
+    "text": "15-MAY-20 15-MAY-20 5420 ACLF INTRA SWITCH ATM CW FEE/ 247955 3215856948 18.75 1,655.08"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.0,
+      401.311,
+      829.43,
+      6.475006
+    ],
+    "text": "15-MAY-20 15-MAY-20 5420 ACW2 ATM CASH WITHDRAWAL-LNK/ 1511 3215856947 10,000.00 1,673.83"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.0,
+      410.311,
+      829.60205,
+      6.475006
+    ],
+    "text": "08-MAY-20 08-MAY-20 5398 IBFR INTERBANK FUNDS RECEIVING/ 8153 3207847372 10,309.00 11,673.83"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.36,
+      419.311,
+      829.07,
+      6.475006
+    ],
+    "text": "30-APR-20 30-APR-20 1501 AMCH ACC MAINT: CHRG INCLUSIVE FED/ 3192631016 50.00 1,364.83"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.36,
+      428.311,
+      829.07,
+      6.475006
+    ],
+    "text": "23-APR-20 23-APR-20 5372 FDTX FEDERAL EXCISE DUTY TAX/ 3182872812 8.00 1,414.83"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.36,
+      437.311,
+      829.07,
+      6.475006
+    ],
+    "text": "23-APR-20 23-APR-20 5372 RETC REJECTED E-COM TRAN CHARGES DC/;REJECTED E-COMMERCE TRAN DC 3182872811 50.00 1,422.83"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.36,
+      446.311,
+      829.07,
+      6.475006
+    ],
+    "text": "23-APR-20 23-APR-20 5372 FDTX FEDERAL EXCISE DUTY TAX/ 3182872810 8.00 1,472.83"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.36,
+      455.311,
+      829.07,
+      6.475006
+    ],
+    "text": "23-APR-20 23-APR-20 5372 RETC REJECTED E-COM TRAN CHARGES DC/;REJECTED E-COMMERCE TRAN DC 3182872809 50.00 1,480.83"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.36,
+      464.311,
+      829.07,
+      6.475006
+    ],
+    "text": "18-APR-20 18-APR-20 5420 ACLF INTRA SWITCH ATM CW FEE/ 820362 3176794190 18.75 1,530.83"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.36,
+      473.311,
+      829.07,
+      6.475006
+    ],
+    "text": "18-APR-20 18-APR-20 5420 ACW2 ATM CASH WITHDRAWAL-LNK/ 7709 3176794189 5,000.00 1,549.58"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.36,
+      482.311,
+      829.07,
+      6.475006
+    ],
+    "text": "07-APR-20 07-APR-20 0582 ACW1 ATM CASH WITHDRAWAL-MCB/ 1816 3165710760 4,000.00 6,549.58"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.0,
+      491.311,
+      829.60205,
+      6.475006
+    ],
+    "text": "31-MAR-20 31-MAR-20 1501 AMCH ACC MAINT: CHRG INCLUSIVE FED/ 3156681735 50.00 10,549.58"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.0,
+      500.311,
+      829.60205,
+      6.475006
+    ],
+    "text": "31-MAR-20 31-MAR-20 1501 FBY1 ADVANCE TAX UNDER SECTION 236Y/ 3156182558 116.50 10,599.58"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.0,
+      509.311,
+      829.60205,
+      6.475006
+    ],
+    "text": "31-MAR-20 31-MAR-20 5372 VSTD VISA DEBIT POS TRANSACTION/ 2976 3156182557 11,882.67 10,716.08"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.0,
+      518.31104,
+      829.60205,
+      6.4749756
+    ],
+    "text": "31-MAR-20 31-MAR-20 5372 FDTX FEDERAL EXCISE DUTY TAX/ 3156157059 8.00 22,598.75"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.0,
+      527.31104,
+      829.60205,
+      6.4749756
+    ],
+    "text": "31-MAR-20 31-MAR-20 5372 RETC REJECTED E-COM TRAN CHARGES DC/;REJECTED E-COMMERCE TRAN DC 3156157058 50.00 22,606.75"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.0,
+      536.31104,
+      829.60205,
+      6.4749756
+    ],
+    "text": "26-MAR-20 26-MAR-20 5420 ACLF INTRA SWITCH ATM CW FEE/ 138424 3150060018 18.75 22,656.75"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.0,
+      545.31104,
+      829.60205,
+      6.4749756
+    ],
+    "text": "26-MAR-20 26-MAR-20 5420 ACW2 ATM CASH WITHDRAWAL-LNK/ 6589 3150060017 1,000.00 22,675.50"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.0,
+      554.31104,
+      829.60205,
+      6.4749756
+    ],
+    "text": "26-MAR-20 26-MAR-20 1656 SALC SALARY CREDIT/;SALARY 3149849822 23,580.00 23,675.50"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.0,
+      563.31104,
+      829.46,
+      6.4749756
+    ],
+    "text": "16-MAR-20 16-MAR-20 5420 ACLF INTRA SWITCH ATM CW FEE/ 840033 3138101713 18.75 95.50"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.0,
+      572.31104,
+      829.59204,
+      6.4749756
+    ],
+    "text": "16-MAR-20 16-MAR-20 5420 ACW2 ATM CASH WITHDRAWAL-LNK/ 2691 3138101712 3,000.00 114.25"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.0,
+      581.31104,
+      829.43,
+      6.4749756
+    ],
+    "text": "05-MAR-20 05-MAR-20 1785 ACW1 ATM CASH WITHDRAWAL-MCB/ 7609 3124294407 6,000.00 3,114.25"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.76,
+      590.31104,
+      828.67,
+      6.4749756
+    ],
+    "text": "29-FEB-20 29-FEB-20 1501 AMCH ACC MAINT: CHRG INCLUSIVE FED/ 3117025607 50.00 9,114.25"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.76,
+      599.31104,
+      828.67,
+      6.4749756
+    ],
+    "text": "28-FEB-20 28-FEB-20 1785 ACW1 ATM CASH WITHDRAWAL-MCB/ 4267 3115341102 15,000.00 9,164.25"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      21.76,
+      608.31104,
+      828.84204,
+      6.4749756
+    ],
+    "text": "28-FEB-20 28-FEB-20 1656 SALC SALARY CREDIT/;SALARY 3115113248 23,830.00 24,164.25"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      25.12,
+      630.791,
+      825.171,
+      6.4749756
+    ],
+    "text": "Tran Date Effect Date Tran Br Tran Type Tran Description Reference Voucher No Seq No Withdrawl Deposit Balance"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      18.0,
+      644.31104,
+      832.59204,
+      6.4749756
+    ],
+    "text": "OPENING BALANCE AS OF 19-FEB-20 334.25"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      22.520004,
+      666.791,
+      252.87898,
+      6.4749756
+    ],
+    "text": "Date of Account Open 28-MAY-19"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      22.520004,
+      680.31104,
+      256.64197,
+      6.4749756
+    ],
+    "text": "Nature of Account CUR"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      22.520004,
+      693.791,
+      256.63202,
+      6.4749756
+    ],
+    "text": "Currency PKR"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      22.520004,
+      707.31104,
+      256.22302,
+      6.4749756
+    ],
+    "text": "Account Title MUHAMMAD SUFYAN IMTIAZ"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      22.520004,
+      720.791,
+      256.51202,
+      6.4749756
+    ],
+    "text": "Account No 1098223911007057"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      789.76,
+      725.31104,
+      56.798035,
+      6.4749756
+    ],
+    "text": "User ID: ops1501"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      22.520004,
+      734.31104,
+      252.917,
+      6.4749756
+    ],
+    "text": "Branch 1501-ISLAMABAD I-8 MARKAZ"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      807.00006,
+      741.31104,
+      39.291077,
+      6.4749756
+    ],
+    "text": "Page: 1 of 1"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      69.0,
+      753.377,
+      79.50598,
+      8.324951
+    ],
+    "text": "MCB Bank Limited"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      354.76004,
+      756.41705,
+      490.96396,
+      8.324951
+    ],
+    "text": "From : 19-FEB-20 To 19-AUG-20 Aug 20, 2020 03:29:56 PM"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      381.00003,
+      766.89703,
+      93.00601,
+      8.324951
+    ],
+    "text": "Statement of Account"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      759.76,
+      774.791,
+      86.34503,
+      6.4749756
+    ],
+    "text": "Report ID: BR_DAILY_086"
+  },
+  {
+    "type": "P",
+    "page": 1,
+    "rect": [
+      397.52002,
+      777.377,
+      60.011993,
+      8.324951
+    ],
+    "text": "CMIS Division"
+  }
+]
