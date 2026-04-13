@@ -1,0 +1,217 @@
+<h1 style="text-align: center;">🚀 Coding Agent COE – Home</h1>
+
+<ac:structured-macro ac:name="panel">
+  <ac:parameter ac:name="title">🎯 Purpose</ac:parameter>
+  <ac:rich-text-body>
+    <p>The Coding Agent Center of Excellence (COE) drives adoption, standardization, and scalability of AI-powered coding agents.</p>
+    <p><strong>Focus Areas:</strong></p>
+    <ul>
+      <li>Enhance developer productivity</li>
+      <li>Promote reusable assets</li>
+      <li>Build AI-first engineering culture</li>
+    </ul>
+  </ac:rich-text-body>
+</ac:structured-macro>
+
+<h2>🧭 COE Pillars</h2>
+
+<ac:structured-macro ac:name="section">
+  <ac:rich-text-body>
+
+    <!-- Column 1 -->
+    <ac:structured-macro ac:name="column">
+      <ac:parameter ac:name="width">33%</ac:parameter>
+      <ac:rich-text-body>
+        <ac:structured-macro ac:name="panel">
+          <ac:parameter ac:name="title">🧑‍🏫 Training & Engagement</ac:parameter>
+          <ac:rich-text-body>
+            <p><strong>Status:</strong> Active</p>
+            <ul>
+              <li>Access to vendor training (CDXO)</li>
+              <li>Prompt Engineering & agent-driven development</li>
+              <li>Skill assessments (Hiring + L&amp;D)</li>
+              <li>Inner Source (Story Weaver)</li>
+            </ul>
+            <ac:structured-macro ac:name="expand">
+              <ac:parameter ac:name="title">View Details</ac:parameter>
+              <ac:rich-text-body>
+                <ul>
+                  <li>Structured learning paths</li>
+                  <li>Certification tracking</li>
+                  <li>Hands-on labs & sandbox environments</li>
+                </ul>
+              </ac:rich-text-body>
+            </ac:structured-macro>
+          </ac:rich-text-body>
+        </ac:structured-macro>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+
+    <!-- Column 2 -->
+    <ac:structured-macro ac:name="column">
+      <ac:parameter ac:name="width">33%</ac:parameter>
+      <ac:rich-text-body>
+        <ac:structured-macro ac:name="panel">
+          <ac:parameter ac:name="title">🛠️ Build Culture</ac:parameter>
+          <ac:rich-text-body>
+            <p><strong>Status:</strong> Growing</p>
+            <ul>
+              <li>Maintain Agents.md</li>
+              <li>Goal-based recognition</li>
+              <li>Reward AI-driven efficiency</li>
+            </ul>
+            <ac:structured-macro ac:name="expand">
+              <ac:parameter ac:name="title">View Details</ac:parameter>
+              <ac:rich-text-body>
+                <ul>
+                  <li>Standard templates for projects</li>
+                  <li>Recognition leaderboard</li>
+                  <li>Adoption tracking per team</li>
+                </ul>
+              </ac:rich-text-body>
+            </ac:structured-macro>
+          </ac:rich-text-body>
+        </ac:structured-macro>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+
+    <!-- Column 3 -->
+    <ac:structured-macro ac:name="column">
+      <ac:parameter ac:name="width">33%</ac:parameter>
+      <ac:rich-text-body>
+        <ac:structured-macro ac:name="panel">
+          <ac:parameter ac:name="title">♻️ Drive Reusability</ac:parameter>
+          <ac:rich-text-body>
+            <p><strong>Status:</strong> Key Focus</p>
+            <ul>
+              <li>IDE Marketplace (VS Code / IntelliJ)</li>
+              <li>Reusable Prompts (LOB-level)</li>
+              <li>Townhalls & rewards</li>
+            </ul>
+            <ac:structured-macro ac:name="expand">
+              <ac:parameter ac:name="title">View Details</ac:parameter>
+              <ac:rich-text-body>
+                <ul>
+                  <li>Central repository for agents</li>
+                  <li>Prompt versioning strategy</li>
+                  <li>Reusability score tracking</li>
+                </ul>
+              </ac:rich-text-body>
+            </ac:structured-macro>
+          </ac:rich-text-body>
+        </ac:structured-macro>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+
+  </ac:rich-text-body>
+</ac:structured-macro>
+
+<br/>
+
+<ac:structured-macro ac:name="section">
+  <ac:rich-text-body>
+
+    <!-- Evangelize -->
+    <ac:structured-macro ac:name="column">
+      <ac:parameter ac:name="width">50%</ac:parameter>
+      <ac:rich-text-body>
+        <ac:structured-macro ac:name="panel">
+          <ac:parameter ac:name="title">📢 Evangelize</ac:parameter>
+          <ac:rich-text-body>
+            <p><strong>Status:</strong> Ongoing</p>
+            <ul>
+              <li>Coding agent challenges / Hackathons</li>
+              <li>Show-N-Tell sessions</li>
+              <li>Industry connects</li>
+              <li>Monthly connects</li>
+            </ul>
+            <ac:structured-macro ac:name="expand">
+              <ac:parameter ac:name="title">Upcoming Activities</ac:parameter>
+              <ac:rich-text-body>
+                <ul>
+                  <li>Hackathons calendar</li>
+                  <li>Speaker sessions</li>
+                  <li>Cross-LOB demos</li>
+                </ul>
+              </ac:rich-text-body>
+            </ac:structured-macro>
+          </ac:rich-text-body>
+        </ac:structured-macro>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+
+    <!-- Metrics -->
+    <ac:structured-macro ac:name="column">
+      <ac:parameter ac:name="width">50%</ac:parameter>
+      <ac:rich-text-body>
+        <ac:structured-macro ac:name="panel">
+          <ac:parameter ac:name="title">📊 Metrics & Measures</ac:parameter>
+          <ac:rich-text-body>
+            <p><strong>Status:</strong> Tracking</p>
+            <ul>
+              <li>Time to Market</li>
+              <li>Accepted Lines of Code</li>
+              <li>Agent Effectiveness</li>
+              <li>Developer Effectiveness</li>
+            </ul>
+          </ac:rich-text-body>
+        </ac:structured-macro>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+
+  </ac:rich-text-body>
+</ac:structured-macro>
+
+<br/>
+
+<ac:structured-macro ac:name="panel">
+  <ac:parameter ac:name="title">📅 Upcoming</ac:parameter>
+  <ac:rich-text-body>
+    <p><strong>Coding Agent Challenge – 2nd Week of April</strong></p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+
+<h2>👥 SPOC / Leadership</h2>
+
+<table>
+  <tr><th>Name</th><th>LOB</th></tr>
+  <tr><td>Pichuka, Kalyan Kumar</td><td>TCOO</td></tr>
+  <tr><td>Pantina, Shrikant</td><td>WIMT</td></tr>
+  <tr><td>Sandip Dhar</td><td>CDO</td></tr>
+  <tr><td>Gowtham, Ganesh</td><td>CIBT</td></tr>
+  <tr><td>Pravinkumar</td><td>EFT</td></tr>
+  <tr><td>Pachamuthu</td><td>EFT</td></tr>
+  <tr><td>Vijan, Prince</td><td>CTO</td></tr>
+  <tr><td>Shishir Mishra</td><td>CT</td></tr>
+</table>
+
+<br/>
+
+<ac:structured-macro ac:name="panel">
+  <ac:parameter ac:name="title">🔗 Quick Links</ac:parameter>
+  <ac:rich-text-body>
+    <ul>
+      <li>Training Materials</li>
+      <li>Prompt Library</li>
+      <li>Agent Marketplace</li>
+      <li>Hackathon Submissions</li>
+      <li>Metrics Dashboard</li>
+    </ul>
+  </ac:rich-text-body>
+</ac:structured-macro>
+
+<br/>
+
+<ac:structured-macro ac:name="panel">
+  <ac:parameter ac:name="title">💡 How to Contribute</ac:parameter>
+  <ac:rich-text-body>
+    <ul>
+      <li>Share reusable agents & prompts</li>
+      <li>Participate in COE events</li>
+      <li>Publish via Inner Source</li>
+      <li>Contribute to marketplace assets</li>
+    </ul>
+  </ac:rich-text-body>
+</ac:structured-macro>
+
+<p><strong>Status:</strong> Live | Owner: COE Team</p>
