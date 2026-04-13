@@ -1,0 +1,175 @@
+<h1 style="text-align:center; color:#D71E28;">🚀 Coding Agent COE Dashboard</h1>
+<p style="text-align:center; font-size:14px;">Build Once • Reuse Everywhere • Scale AI with Confidence</p>
+
+<!-- HERO PANEL -->
+<ac:structured-macro ac:name="panel">
+  <ac:parameter ac:name="bgColor">#F4F5F7</ac:parameter>
+  <ac:rich-text-body>
+    <h2 style="color:#D71E28;">AI Engineering Excellence Hub</h2>
+    <p>Central platform to drive AI-powered development, reusability, and engineering productivity.</p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+
+<br/>
+
+<!-- NAVIGATION CARDS -->
+<h2 style="color:#D71E28;">🔗 Quick Navigation</h2>
+
+<ac:structured-macro ac:name="section">
+<ac:rich-text-body>
+
+<ac:structured-macro ac:name="column">
+<ac:parameter ac:name="width">25%</ac:parameter>
+<ac:rich-text-body>
+<ac:structured-macro ac:name="panel">
+<ac:parameter ac:name="bgColor">#FFF5F5</ac:parameter>
+<ac:rich-text-body>
+<p><strong>📘 Training Hub</strong></p>
+<p>Access learning & certifications</p>
+</ac:rich-text-body>
+</ac:structured-macro>
+</ac:rich-text-body>
+</ac:structured-macro>
+
+<ac:structured-macro ac:name="column">
+<ac:parameter ac:name="width">25%</ac:parameter>
+<ac:rich-text-body>
+<ac:structured-macro ac:name="panel">
+<ac:parameter ac:name="bgColor">#FFF9E6</ac:parameter>
+<ac:rich-text-body>
+<p><strong>♻️ Agent Marketplace</strong></p>
+<p>Explore reusable agents</p>
+</ac:rich-text-body>
+</ac:structured-macro>
+</ac:rich-text-body>
+</ac:structured-macro>
+
+<ac:structured-macro ac:name="column">
+<ac:parameter ac:name="width">25%</ac:parameter>
+<ac:rich-text-body>
+<ac:structured-macro ac:name="panel">
+<ac:parameter ac:name="bgColor">#E6FCFF</ac:parameter>
+<ac:rich-text-body>
+<p><strong>🏆 Hackathons</strong></p>
+<p>Participate & innovate</p>
+</ac:rich-text-body>
+</ac:structured-macro>
+</ac:rich-text-body>
+</ac:structured-macro>
+
+<ac:structured-macro ac:name="column">
+<ac:parameter ac:name="width">25%</ac:parameter>
+<ac:rich-text-body>
+<ac:structured-macro ac:name="panel">
+<ac:parameter ac:name="bgColor">#F4F5F7</ac:parameter>
+<ac:rich-text-body>
+<p><strong>📊 Metrics</strong></p>
+<p>Track adoption & impact</p>
+</ac:rich-text-body>
+</ac:structured-macro>
+</ac:rich-text-body>
+</ac:structured-macro>
+
+</ac:rich-text-body>
+</ac:structured-macro>
+
+<br/>
+
+<!-- KPI STRIP -->
+<h2 style="color:#D71E28;">📊 Key Metrics</h2>
+
+<ac:structured-macro ac:name="section">
+<ac:rich-text-body>
+
+<ac:structured-macro ac:name="column"><ac:parameter ac:name="width">25%</ac:parameter>
+<ac:rich-text-body>
+<p><strong>⏱️ Time to Market</strong></p>
+<p style="color:#D71E28;">↓ 30%</p>
+</ac:rich-text-body></ac:structured-macro>
+
+<ac:structured-macro ac:name="column"><ac:parameter ac:name="width">25%</ac:parameter>
+<ac:rich-text-body>
+<p><strong>📈 Productivity Gain</strong></p>
+<p style="color:#D71E28;">↑ 40%</p>
+</ac:rich-text-body></ac:structured-macro>
+
+<ac:structured-macro ac:name="column"><ac:parameter ac:name="width">25%</ac:parameter>
+<ac:rich-text-body>
+<p><strong>🤖 Agent Usage</strong></p>
+<p style="color:#D71E28;">High</p>
+</ac:rich-text-body></ac:structured-macro>
+
+<ac:structured-macro ac:name="column"><ac:parameter ac:name="width">25%</ac:parameter>
+<ac:rich-text-body>
+<p><strong>✅ Success Rate</strong></p>
+<p style="color:#D71E28;">95%</p>
+</ac:rich-text-body></ac:structured-macro>
+
+</ac:rich-text-body>
+</ac:structured-macro>
+
+<br/>
+
+<!-- PILLARS -->
+<h2 style="color:#D71E28;">🧭 COE Pillars</h2>
+
+<ac:structured-macro ac:name="panel">
+<ac:rich-text-body>
+<ul>
+<li>🧑‍🏫 Training & Engagement</li>
+<li>🛠️ Build Culture</li>
+<li>♻️ Reusability</li>
+<li>📢 Evangelize</li>
+<li>📊 Metrics & Governance</li>
+</ul>
+</ac:rich-text-body>
+</ac:structured-macro>
+
+<br/>
+
+<!-- QUICK ACTIONS -->
+<h2 style="color:#D71E28;">⚡ Quick Actions</h2>
+
+<ac:structured-macro ac:name="panel">
+<ac:parameter ac:name="bgColor">#FFF5F5</ac:parameter>
+<ac:rich-text-body>
+<ul>
+<li>🚀 Submit new Agent</li>
+<li>📘 Access Training</li>
+<li>🏆 Join Hackathon</li>
+<li>📊 View Metrics Dashboard</li>
+</ul>
+</ac:rich-text-body>
+</ac:structured-macro>
+
+<br/>
+
+<!-- UPCOMING -->
+<ac:structured-macro ac:name="panel">
+<ac:parameter ac:name="bgColor">#FFF9E6</ac:parameter>
+<ac:rich-text-body>
+<h3 style="color:#D71E28;">📅 Upcoming</h3>
+<p><strong>Coding Agent Challenge – 2nd Week of April</strong></p>
+</ac:rich-text-body>
+</ac:structured-macro>
+
+<br/>
+
+<!-- LEADERS -->
+<h2 style="color:#D71E28;">👥 Leadership</h2>
+
+<table>
+<tr><th>Name</th><th>LOB</th></tr>
+<tr><td>Kalyan Kumar</td><td>TCOO</td></tr>
+<tr><td>Shrikant</td><td>WIMT</td></tr>
+<tr><td>Sandip Dhar</td><td>CDO</td></tr>
+<tr><td>Ganesh Gowtham</td><td>CIBT</td></tr>
+<tr><td>Pravinkumar</td><td>EFT</td></tr>
+<tr><td>Pachamuthu</td><td>EFT</td></tr>
+<tr><td>Prince Vijan</td><td>CTO</td></tr>
+<tr><td>Shishir Mishra</td><td>CT</td></tr>
+</table>
+
+<br/>
+
+<p style="text-align:center;"><strong>Status:</strong> <span style="color:green;">● Live</span> | COE Team</p>

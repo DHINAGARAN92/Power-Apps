@@ -1,0 +1,157 @@
+<h1 style="text-align:center; color:#D71E28;">🚀 Coding Agent COE Portal</h1>
+<p style="text-align:center;">Build Once • Reuse Everywhere • Scale AI</p>
+
+<!-- HERO -->
+<ac:structured-macro ac:name="panel">
+  <ac:parameter ac:name="bgColor">#F4F5F7</ac:parameter>
+  <ac:rich-text-body>
+    <h2 style="color:#D71E28;">AI Engineering Excellence Hub</h2>
+    <p>Central platform for AI adoption, reusable agents, and engineering productivity.</p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+
+<br/>
+
+<!-- CLICKABLE NAVIGATION -->
+<h2 style="color:#D71E28;">🔗 Explore</h2>
+
+<ac:structured-macro ac:name="section">
+<ac:rich-text-body>
+
+<!-- TRAINING -->
+<ac:structured-macro ac:name="column">
+<ac:parameter ac:name="width">25%</ac:parameter>
+<ac:rich-text-body>
+<ac:link>
+  <ri:url ri:value="TRAINING_LINK"/>
+  <ac:plain-text-link-body><![CDATA[
+📘 Training Hub
+
+Access learning paths, certifications, and onboarding
+]]></ac:plain-text-link-body>
+</ac:link>
+</ac:rich-text-body>
+</ac:structured-macro>
+
+<!-- MARKETPLACE -->
+<ac:structured-macro ac:name="column">
+<ac:parameter ac:name="width">25%</ac:parameter>
+<ac:rich-text-body>
+<ac:link>
+  <ri:url ri:value="MARKETPLACE_LINK"/>
+  <ac:plain-text-link-body><![CDATA[
+♻️ Agent Marketplace
+
+Explore reusable agents and prompts
+]]></ac:plain-text-link-body>
+</ac:link>
+</ac:rich-text-body>
+</ac:structured-macro>
+
+<!-- HACKATHON -->
+<ac:structured-macro ac:name="column">
+<ac:parameter ac:name="width">25%</ac:parameter>
+<ac:rich-text-body>
+<ac:link>
+  <ri:url ri:value="HACKATHON_LINK"/>
+  <ac:plain-text-link-body><![CDATA[
+🏆 Hackathons
+
+Participate in innovation challenges
+]]></ac:plain-text-link-body>
+</ac:link>
+</ac:rich-text-body>
+</ac:structured-macro>
+
+<!-- METRICS -->
+<ac:structured-macro ac:name="column">
+<ac:parameter ac:name="width">25%</ac:parameter>
+<ac:rich-text-body>
+<ac:link>
+  <ri:url ri:value="METRICS_LINK"/>
+  <ac:plain-text-link-body><![CDATA[
+📊 Metrics Dashboard
+
+Track performance and adoption
+]]></ac:plain-text-link-body>
+</ac:link>
+</ac:rich-text-body>
+</ac:structured-macro>
+
+</ac:rich-text-body>
+</ac:structured-macro>
+
+<br/>
+
+<!-- KPI STRIP -->
+<h2 style="color:#D71E28;">📊 Key Metrics</h2>
+
+<ac:structured-macro ac:name="section">
+<ac:rich-text-body>
+
+<ac:structured-macro ac:name="column">
+<ac:parameter ac:name="width">25%</ac:parameter>
+<ac:rich-text-body>
+<p><strong>⏱️ Time to Market</strong></p>
+<p style="color:#D71E28;">↓ 30%</p>
+</ac:rich-text-body>
+</ac:structured-macro>
+
+<ac:structured-macro ac:name="column">
+<ac:parameter ac:name="width">25%</ac:parameter>
+<ac:rich-text-body>
+<p><strong>📈 Productivity</strong></p>
+<p style="color:#D71E28;">↑ 40%</p>
+</ac:rich-text-body>
+</ac:structured-macro>
+
+<ac:structured-macro ac:name="column">
+<ac:parameter ac:name="width">25%</ac:parameter>
+<ac:rich-text-body>
+<p><strong>🤖 Agent Usage</strong></p>
+<p style="color:#D71E28;">High</p>
+</ac:rich-text-body>
+</ac:structured-macro>
+
+<ac:structured-macro ac:name="column">
+<ac:parameter ac:name="width">25%</ac:parameter>
+<ac:rich-text-body>
+<p><strong>✅ Success Rate</strong></p>
+<p style="color:#D71E28;">95%</p>
+</ac:rich-text-body>
+</ac:structured-macro>
+
+</ac:rich-text-body>
+</ac:structured-macro>
+
+<br/>
+
+<!-- QUICK ACTIONS -->
+<h2 style="color:#D71E28;">⚡ Quick Actions</h2>
+
+<ac:structured-macro ac:name="panel">
+<ac:parameter ac:name="bgColor">#FFF5F5</ac:parameter>
+<ac:rich-text-body>
+<ul>
+<li><ac:link><ri:url ri:value="MARKETPLACE_LINK"/><ac:plain-text-link-body><![CDATA[🚀 Submit New Agent]]></ac:plain-text-link-body></ac:link></li>
+<li><ac:link><ri:url ri:value="TRAINING_LINK"/><ac:plain-text-link-body><![CDATA[📘 Start Training]]></ac:plain-text-link-body></ac:link></li>
+<li><ac:link><ri:url ri:value="HACKATHON_LINK"/><ac:plain-text-link-body><![CDATA[🏆 Join Hackathon]]></ac:plain-text-link-body></ac:link></li>
+<li><ac:link><ri:url ri:value="METRICS_LINK"/><ac:plain-text-link-body><![CDATA[📊 View Metrics]]></ac:plain-text-link-body></ac:link></li>
+</ul>
+</ac:rich-text-body>
+</ac:structured-macro>
+
+<br/>
+
+<!-- UPCOMING -->
+<ac:structured-macro ac:name="panel">
+<ac:parameter ac:name="bgColor">#FFF9E6</ac:parameter>
+<ac:rich-text-body>
+<h3 style="color:#D71E28;">📅 Upcoming</h3>
+<p><strong>Coding Agent Challenge – 2nd Week of April</strong></p>
+</ac:rich-text-body>
+</ac:structured-macro>
+
+<br/>
+
+<p style="text-align:center;"><strong>Status:</strong> <span style="color:green;">● Live</span></p>
