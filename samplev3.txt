@@ -1,115 +1,61 @@
 <h1 style="text-align:center; color:#D71E28;">🚀 Coding Agent COE</h1>
 
-<p style="text-align:center;">Build Once • Reuse Everywhere • Scale AI</p>
+<p style="text-align:center;">AI Driven Engineering • Reusability • Productivity</p>
 
-<!-- CENTER COE -->
+<br/>
+
+<!-- TOP NODE -->
 <ac:structured-macro ac:name="panel">
-<ac:parameter ac:name="bgColor">#D71E28</ac:parameter>
+<ac:parameter ac:name="bgColor">#0052CC</ac:parameter>
 <ac:rich-text-body>
-<h2 style="text-align:center; color:white;">Coding Agents COE</h2>
-<p style="text-align:center; color:white;">Driving AI Engineering Excellence</p>
+<p style="text-align:center; color:white;"><strong>🧑‍🏫 Training & Engagement</strong></p>
+<p style="text-align:center; color:white;">Upskill • Prompt Engineering • Inner Source</p>
 </ac:rich-text-body>
 </ac:structured-macro>
 
 <br/>
 
-<!-- INFOGRAPHIC PILLARS -->
-<h2 style="color:#D71E28;">🧭 COE Pillars</h2>
-
+<!-- MIDDLE ROW -->
 <ac:structured-macro ac:name="section">
 <ac:rich-text-body>
 
-<!-- TRAINING -->
+<!-- LEFT NODE -->
 <ac:structured-macro ac:name="column">
-<ac:parameter ac:name="width">20%</ac:parameter>
-<ac:rich-text-body>
-<ac:structured-macro ac:name="panel">
-<ac:parameter ac:name="bgColor">#0052CC</ac:parameter>
-<ac:rich-text-body>
-<p style="color:white;"><strong>🧑‍🏫 Training & Engagement</strong></p>
-<ul style="color:white;">
-<li>Access to vendor training (CDXO)</li>
-<li>Prompt Engineering & agent-driven development</li>
-<li>Skill assessment (L&D)</li>
-<li>Inner Source (Story Weaver)</li>
-</ul>
-</ac:rich-text-body>
-</ac:structured-macro>
-</ac:rich-text-body>
-</ac:structured-macro>
-
-<!-- BUILD -->
-<ac:structured-macro ac:name="column">
-<ac:parameter ac:name="width">20%</ac:parameter>
+<ac:parameter ac:name="width">30%</ac:parameter>
 <ac:rich-text-body>
 <ac:structured-macro ac:name="panel">
 <ac:parameter ac:name="bgColor">#FF5630</ac:parameter>
 <ac:rich-text-body>
-<p style="color:white;"><strong>🛠️ Build Culture</strong></p>
-<ul style="color:white;">
-<li>Maintain Agents.md</li>
-<li>Project architecture alignment</li>
-<li>Goal-based recognition</li>
-<li>Reward AI efficiency gains</li>
-</ul>
+<p style="text-align:center; color:white;"><strong>🛠️ Build Culture</strong></p>
+<p style="text-align:center; color:white;">Agents.md • Recognition • Efficiency</p>
 </ac:rich-text-body>
 </ac:structured-macro>
 </ac:rich-text-body>
 </ac:structured-macro>
 
-<!-- REUSABILITY -->
+<!-- CENTER COE -->
 <ac:structured-macro ac:name="column">
-<ac:parameter ac:name="width">20%</ac:parameter>
+<ac:parameter ac:name="width">40%</ac:parameter>
+<ac:rich-text-body>
+<ac:structured-macro ac:name="panel">
+<ac:parameter ac:name="bgColor">#D71E28</ac:parameter>
+<ac:rich-text-body>
+<h2 style="text-align:center; color:white;">Coding Agents COE</h2>
+<p style="text-align:center; color:white;">Core of AI Engineering</p>
+</ac:rich-text-body>
+</ac:structured-macro>
+</ac:rich-text-body>
+</ac:structured-macro>
+
+<!-- RIGHT NODE -->
+<ac:structured-macro ac:name="column">
+<ac:parameter ac:name="width">30%</ac:parameter>
 <ac:rich-text-body>
 <ac:structured-macro ac:name="panel">
 <ac:parameter ac:name="bgColor">#36B37E</ac:parameter>
 <ac:rich-text-body>
-<p style="color:white;"><strong>♻️ Drive Reusability</strong></p>
-<ul style="color:white;">
-<li>IDE Marketplace (VS Code / IntelliJ)</li>
-<li>Reusable Agents</li>
-<li>Reusable Prompts (LOB level)</li>
-<li>Townhall rewards</li>
-</ul>
-</ac:rich-text-body>
-</ac:structured-macro>
-</ac:rich-text-body>
-</ac:structured-macro>
-
-<!-- EVANGELIZE -->
-<ac:structured-macro ac:name="column">
-<ac:parameter ac:name="width">20%</ac:parameter>
-<ac:rich-text-body>
-<ac:structured-macro ac:name="panel">
-<ac:parameter ac:name="bgColor">#6554C0</ac:parameter>
-<ac:rich-text-body>
-<p style="color:white;"><strong>📢 Evangelize</strong></p>
-<ul style="color:white;">
-<li>Coding agent challenges / Hackathons</li>
-<li>Show-N-Tell</li>
-<li>Developer Day</li>
-<li>Industry Connects</li>
-<li>Monthly Connects</li>
-</ul>
-</ac:rich-text-body>
-</ac:structured-macro>
-</ac:rich-text-body>
-</ac:structured-macro>
-
-<!-- METRICS -->
-<ac:structured-macro ac:name="column">
-<ac:parameter ac:name="width">20%</ac:parameter>
-<ac:rich-text-body>
-<ac:structured-macro ac:name="panel">
-<ac:parameter ac:name="bgColor">#00B8D9</ac:parameter>
-<ac:rich-text-body>
-<p style="color:white;"><strong>📊 Metrics & Measures</strong></p>
-<ul style="color:white;">
-<li>Time to Market (JIRA / DOD)</li>
-<li>Accepted Lines of Code</li>
-<li>Agent Effectiveness</li>
-<li>Developer Effectiveness</li>
-</ul>
+<p style="text-align:center; color:white;"><strong>♻️ Reusability</strong></p>
+<p style="text-align:center; color:white;">Marketplace • Prompts • Reuse</p>
 </ac:rich-text-body>
 </ac:structured-macro>
 </ac:rich-text-body>
@@ -120,45 +66,67 @@
 
 <br/>
 
-<!-- UPCOMING + SPOC -->
+<!-- BOTTOM ROW -->
 <ac:structured-macro ac:name="section">
 <ac:rich-text-body>
 
+<!-- LEFT -->
 <ac:structured-macro ac:name="column">
 <ac:parameter ac:name="width">50%</ac:parameter>
 <ac:rich-text-body>
+<ac:structured-macro ac:name="panel">
+<ac:parameter ac:name="bgColor">#6554C0</ac:parameter>
+<ac:rich-text-body>
+<p style="text-align:center; color:white;"><strong>📢 Evangelize</strong></p>
+<p style="text-align:center; color:white;">Hackathons • Show-N-Tell • Community</p>
+</ac:rich-text-body>
+</ac:structured-macro>
+</ac:rich-text-body>
+</ac:structured-macro>
+
+<!-- RIGHT -->
+<ac:structured-macro ac:name="column">
+<ac:parameter ac:name="width">50%</ac:parameter>
+<ac:rich-text-body>
+<ac:structured-macro ac:name="panel">
+<ac:parameter ac:name="bgColor">#00B8D9</ac:parameter>
+<ac:rich-text-body>
+<p style="text-align:center; color:white;"><strong>📊 Metrics</strong></p>
+<p style="text-align:center; color:white;">Time • Quality • Effectiveness</p>
+</ac:rich-text-body>
+</ac:structured-macro>
+</ac:rich-text-body>
+</ac:structured-macro>
+
+</ac:rich-text-body>
+</ac:structured-macro>
+
+<br/>
+
+<!-- DETAILED SECTION -->
+<h2 style="color:#D71E28;">📋 Details</h2>
+
+<ac:structured-macro ac:name="panel">
+<ac:parameter ac:name="bgColor">#F4F5F7</ac:parameter>
+<ac:rich-text-body>
+
+<p><strong>🧑‍🏫 Training:</strong> Vendor training, Prompt engineering, Skill assessments</p>
+<p><strong>🛠️ Build:</strong> Agents.md, Recognition, Efficiency rewards</p>
+<p><strong>♻️ Reuse:</strong> IDE Marketplace, Reusable prompts, Townhalls</p>
+<p><strong>📢 Evangelize:</strong> Hackathons, Show-N-Tell, Developer events</p>
+<p><strong>📊 Metrics:</strong> Time to Market, LOC, Agent effectiveness</p>
+
+</ac:rich-text-body>
+</ac:structured-macro>
+
+<br/>
+
+<!-- UPCOMING -->
 <ac:structured-macro ac:name="panel">
 <ac:parameter ac:name="bgColor">#FFF9E6</ac:parameter>
 <ac:rich-text-body>
 <h3 style="color:#D71E28;">📅 Upcoming</h3>
 <p><strong>Coding Agent Challenge – 2nd Week of April</strong></p>
-</ac:rich-text-body>
-</ac:structured-macro>
-</ac:rich-text-body>
-</ac:structured-macro>
-
-<ac:structured-macro ac:name="column">
-<ac:parameter ac:name="width">50%</ac:parameter>
-<ac:rich-text-body>
-<ac:structured-macro ac:name="panel">
-<ac:parameter ac:name="bgColor">#F4F5F7</ac:parameter>
-<ac:rich-text-body>
-<h3 style="color:#D71E28;">👥 SPOC</h3>
-<ul>
-<li>Kalyan Kumar – TCOO</li>
-<li>Shrikant – WIMT</li>
-<li>Sandip Dhar – CDO</li>
-<li>Ganesh – CIBT</li>
-<li>Pravinkumar – EFT</li>
-<li>Pachamuthu – EFT</li>
-<li>Prince – CTO</li>
-<li>Shishir Mishra – CT</li>
-</ul>
-</ac:rich-text-body>
-</ac:structured-macro>
-</ac:rich-text-body>
-</ac:structured-macro>
-
 </ac:rich-text-body>
 </ac:structured-macro>
 
