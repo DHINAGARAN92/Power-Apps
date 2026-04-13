@@ -1,0 +1,200 @@
+<h1 style="text-align:center; color:#D71E28;">🚀 Coding Agent COE</h1>
+<p style="text-align:center; font-size:14px; color:#172B4D;">
+Accelerating AI Adoption • Reusability • Engineering Excellence
+</p>
+
+<ac:structured-macro ac:name="panel">
+  <ac:parameter ac:name="title">🎯 Purpose</ac:parameter>
+  <ac:parameter ac:name="bgColor">#F4F5F7</ac:parameter>
+  <ac:rich-text-body>
+    <p>The <strong>Coding Agent COE</strong> drives scalable AI-powered development across the enterprise.</p>
+    <ul>
+      <li>⚡ Enhance developer productivity</li>
+      <li>♻️ Promote reusable assets</li>
+      <li>🤖 Build AI-first engineering culture</li>
+    </ul>
+  </ac:rich-text-body>
+</ac:structured-macro>
+
+<h2 style="color:#D71E28;">🧭 COE Pillars</h2>
+
+<ac:structured-macro ac:name="section">
+  <ac:rich-text-body>
+
+    <!-- Training -->
+    <ac:structured-macro ac:name="column">
+      <ac:parameter ac:name="width">33%</ac:parameter>
+      <ac:rich-text-body>
+        <ac:structured-macro ac:name="panel">
+          <ac:parameter ac:name="title">🧑‍🏫 Training</ac:parameter>
+          <ac:parameter ac:name="bgColor">#FFF5F5</ac:parameter>
+          <ac:rich-text-body>
+            <p><strong style="color:#D71E28;">● Active</strong></p>
+            <ul>
+              <li>Vendor training (CDXO)</li>
+              <li>Prompt Engineering</li>
+              <li>Skill Assessments</li>
+            </ul>
+            <ac:structured-macro ac:name="expand">
+              <ac:parameter ac:name="title">📘 Details</ac:parameter>
+              <ac:rich-text-body>
+                <ul>
+                  <li>Learning paths</li>
+                  <li>Certifications</li>
+                  <li>Hands-on labs</li>
+                </ul>
+              </ac:rich-text-body>
+            </ac:structured-macro>
+          </ac:rich-text-body>
+        </ac:structured-macro>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+
+    <!-- Culture -->
+    <ac:structured-macro ac:name="column">
+      <ac:parameter ac:name="width">33%</ac:parameter>
+      <ac:rich-text-body>
+        <ac:structured-macro ac:name="panel">
+          <ac:parameter ac:name="title">🛠️ Culture</ac:parameter>
+          <ac:parameter ac:name="bgColor">#FFF9E6</ac:parameter>
+          <ac:rich-text-body>
+            <p><strong style="color:#FF8B00;">● Growing</strong></p>
+            <ul>
+              <li>Agents.md standards</li>
+              <li>Recognition programs</li>
+              <li>AI efficiency rewards</li>
+            </ul>
+            <ac:structured-macro ac:name="expand">
+              <ac:parameter ac:name="title">🏆 Details</ac:parameter>
+              <ac:rich-text-body>
+                <ul>
+                  <li>Leaderboards</li>
+                  <li>Adoption tracking</li>
+                </ul>
+              </ac:rich-text-body>
+            </ac:structured-macro>
+          </ac:rich-text-body>
+        </ac:structured-macro>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+
+    <!-- Reusability -->
+    <ac:structured-macro ac:name="column">
+      <ac:parameter ac:name="width">33%</ac:parameter>
+      <ac:rich-text-body>
+        <ac:structured-macro ac:name="panel">
+          <ac:parameter ac:name="title">♻️ Reusability</ac:parameter>
+          <ac:parameter ac:name="bgColor">#E6FCFF</ac:parameter>
+          <ac:rich-text-body>
+            <p><strong style="color:#0052CC;">● Key Focus</strong></p>
+            <ul>
+              <li>IDE Marketplace</li>
+              <li>Reusable prompts</li>
+              <li>Townhalls</li>
+            </ul>
+            <ac:structured-macro ac:name="expand">
+              <ac:parameter ac:name="title">🔁 Details</ac:parameter>
+              <ac:rich-text-body>
+                <ul>
+                  <li>Agent repository</li>
+                  <li>Prompt versioning</li>
+                </ul>
+              </ac:rich-text-body>
+            </ac:structured-macro>
+          </ac:rich-text-body>
+        </ac:structured-macro>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+
+  </ac:rich-text-body>
+</ac:structured-macro>
+
+<br/>
+
+<ac:structured-macro ac:name="section">
+  <ac:rich-text-body>
+
+    <!-- Evangelize -->
+    <ac:structured-macro ac:name="column">
+      <ac:parameter ac:name="width">50%</ac:parameter>
+      <ac:rich-text-body>
+        <ac:structured-macro ac:name="panel">
+          <ac:parameter ac:name="title">📢 Evangelize</ac:parameter>
+          <ac:parameter ac:name="bgColor">#F4F5F7</ac:parameter>
+          <ac:rich-text-body>
+            <ul>
+              <li>Hackathons</li>
+              <li>Show-N-Tell</li>
+              <li>Industry connects</li>
+            </ul>
+          </ac:rich-text-body>
+        </ac:structured-macro>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+
+    <!-- Metrics -->
+    <ac:structured-macro ac:name="column">
+      <ac:parameter ac:name="width">50%</ac:parameter>
+      <ac:rich-text-body>
+        <ac:structured-macro ac:name="panel">
+          <ac:parameter ac:name="title">📊 Metrics</ac:parameter>
+          <ac:parameter ac:name="bgColor">#FFF5F5</ac:parameter>
+          <ac:rich-text-body>
+            <ul>
+              <li>⏱️ Time to Market</li>
+              <li>📈 Accepted LOC</li>
+              <li>🤖 Agent Effectiveness</li>
+              <li>👨‍💻 Developer Productivity</li>
+            </ul>
+          </ac:rich-text-body>
+        </ac:structured-macro>
+      </ac:rich-text-body>
+    </ac:structured-macro>
+
+  </ac:rich-text-body>
+</ac:structured-macro>
+
+<br/>
+
+<ac:structured-macro ac:name="panel">
+  <ac:parameter ac:name="title">📅 Upcoming</ac:parameter>
+  <ac:parameter ac:name="bgColor">#FFF9E6</ac:parameter>
+  <ac:rich-text-body>
+    <h3 style="color:#D71E28;">Coding Agent Challenge</h3>
+    <p>2nd Week of April</p>
+  </ac:rich-text-body>
+</ac:structured-macro>
+
+<br/>
+
+<h2 style="color:#D71E28;">👥 Leadership</h2>
+
+<table>
+<tr><th>Name</th><th>LOB</th></tr>
+<tr><td>Kalyan Kumar</td><td>TCOO</td></tr>
+<tr><td>Shrikant</td><td>WIMT</td></tr>
+<tr><td>Sandip Dhar</td><td>CDO</td></tr>
+<tr><td>Ganesh Gowtham</td><td>CIBT</td></tr>
+<tr><td>Pravinkumar</td><td>EFT</td></tr>
+<tr><td>Pachamuthu</td><td>EFT</td></tr>
+<tr><td>Prince Vijan</td><td>CTO</td></tr>
+<tr><td>Shishir Mishra</td><td>CT</td></tr>
+</table>
+
+<br/>
+
+<ac:structured-macro ac:name="panel">
+  <ac:parameter ac:name="title">🔗 Quick Links</ac:parameter>
+  <ac:rich-text-body>
+    <ul>
+      <li>Training Materials</li>
+      <li>Prompt Library</li>
+      <li>Agent Marketplace</li>
+      <li>Metrics Dashboard</li>
+    </ul>
+  </ac:rich-text-body>
+</ac:structured-macro>
+
+<p style="text-align:center; color:#172B4D;">
+<strong>Status:</strong> <span style="color:green;">● Live</span> | Owner: COE Team
+</p>
